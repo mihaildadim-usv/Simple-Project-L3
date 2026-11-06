@@ -110,4 +110,4 @@ Sunt incluse animații CSS și efecte vizuale pentru îmbunătățirea experien�
 
 **Autor:** Student pasionat de tehnologie și dezvoltare web.
 
-**An:** 2025
+**An:** 2026
