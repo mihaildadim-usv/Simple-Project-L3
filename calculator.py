@@ -1,3 +1,3 @@
 def calculeaza(a, b):
-    # Operator de adunare de bază
+    # Operator de înmulțire concurent
     return a * b
